@@ -6,13 +6,15 @@ As in our Marketing strategy, we have prepared an advertising video abput our pr
 This is the link to the video: 
 https://drive.google.com/file/d/1lfkcGb92SFrs7895TPkxOIcE5qNFTabq/view?usp=sharing
 
-This is our device architecture (Hardware needed and the way it's wired)
+This is our device architecture (Hardware needed and the way it's wired) [Realised with Tinkercad]
 ![image](https://user-images.githubusercontent.com/68896752/148460838-b8a1881e-6236-4cd4-b5cd-b11bf1ae95e1.png)
 => This represents the first part of our solution. The second part of the project will be the communication between our "Arduino Uno" and the "Raspberry Pi 4" used as an MQTT broker. 
 This part will be represented by this image:
 ![image](https://user-images.githubusercontent.com/68896752/148461581-caa0008e-253c-43c7-94fe-122364c00b9d.png)
 
-
+PLEASE NOTE:
+ - The frontend part ( Mobile Application developed with Flutter ) is under the branch https://github.com/frikhaeya/CloudOfThingsProject/tree/frontend-/main
+ - The Bluetooth Module and The GPS module do not appear in the architecture images due to lack of components on Tinkercad
 
 
 
