@@ -1,4 +1,4 @@
-tHoese scipts will be launched automatically when giving the Rasberry Pi power.
+These scipts will be launched automatically when giving the Rasberry Pi power.
   
   They are meant to:
     - Run the mosquitto broker on the Raspberry Pi through this command:
